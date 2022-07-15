@@ -1,0 +1,14 @@
+black
+bvn_values
+git+https://github.com/notionparallax/pytestgen.git
+git+https://github.com/tweepy/tweepy.git
+git+https://github.com/JustAnotherArchivist/snscrape.git
+ipykernel
+matplotlib
+mypy
+numpy
+pandas
+pandas-stubs
+pytest
+twint
+wheel
